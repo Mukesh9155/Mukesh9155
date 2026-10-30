@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1383B,100:EF7F1A&height=210&section=header&text=Mukesh%20Singh&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Full-stack%20Developer%20%C2%B7%20Web%20%26%20Mobile&descSize=20&descAlignY=57&animation=fadeIn" width="100%" alt="Mukesh Singh — Full-stack Developer" />
+<img src="assets/header.svg" width="100%" alt="Mukesh Singh — Full-stack Developer" />
 
 <a href="https://github.com/Mukesh9155">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=E1383B&center=true&vCenter=true&width=640&lines=I+build+logistics+software+used+every+day;React+%C2%B7+Next.js+%C2%B7+TypeScript+on+the+web;Flutter+apps+for+customers+and+sales+teams;Shipping+with+CI%2FCD+on+GitHub+Actions+%2B+AWS" alt="What I do" />
+  <img src="assets/typing.svg" alt="What I do" />
 </a>
 
 <br/>
@@ -100,6 +100,6 @@ I'm a **full-stack developer at TQS Logistics**, where I build the software the 
 
 **Open to collaborating on web and mobile products.** Say hi on [LinkedIn](https://linkedin.com/in/mukesh-singh1) 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EF7F1A,100:E1383B&height=110&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>
